@@ -17,7 +17,7 @@
 <table border="1" align="center" width="75%">
 <tr>
 <th> <h1> Welcome to my resume <h1></th></tr>
-  <th> <img src="ahmed.jpg" title="Ahmed" align ="left"/> </th>
+  <th> <img src="ahmed.jpg" title="Ahmed"/> </th>
 
 <tr> <th align ="left"> <h2>Ahmed Bulaja </h2>
 <h3>Basic informations </h3>
