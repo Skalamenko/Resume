@@ -51,6 +51,7 @@
 
 <h4>Contact me on:</h4>
 		<p> My phone number: 060 308 3846 </p>
-		<p> email:<a href="mailto:bulaja.ahmed@gmail.com">Ahmed< /a> </p>
+		<p> email:<a href="mailto:bulaja.ahmed@gmail.com">Ahmed </a> </p>
+		<p> <a href="http://instagram.com/_u/{mr.skalamenko}/">Instagram</a>
 
  
