@@ -50,8 +50,5 @@
 		i am currently working in a small part time company, but unfortunately it is not programming based.</p>
 
 
-</th>
-</tr>
-</table>
-</body>
-</html>   
+
+ 
