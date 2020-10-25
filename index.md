@@ -2,7 +2,7 @@
 <body>
 <table border="1" align="center" width="75%">
 <tr>
-<th> <h1> Welcome to my resume <h1></th></tr>
+<th> <h1> Welcome to my resume <h1>
    <img src="ahmed.png"  width="200"
          height="80">
 
@@ -10,7 +10,7 @@
 <h3>Basic informations </h3>
 
 <p> My name is Ahmed Bulaja, I am 21 years old. I was born in Bugojno and i currently live in Sarajevo.
-	I graduated from <a href="https://www.medresa.edu.ba/">Medresa in Travnik </a>. Right now, I am studying at IUS at software ingineering.</p> </br> 
+	I graduated from <a href="https://www.medresa.edu.ba/">Medresa in Travnik </a>. Right now, I am studying at IUS at software ingineering.</p> 
 		
 
 
@@ -43,7 +43,7 @@
 			<td> International University of Sarajevo</td>
 			<td> University</td>
 		</tr>
-		</hr>
+		
    </table>
    <h5> Experience </h5>
 		<p> I do not have experience in large companies, but i have volontiered in couple events that happened in our country, such as: EYOF.
