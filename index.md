@@ -50,8 +50,7 @@
 		i am currently working in a small part time company, but unfortunately it is not programming based.</p>
 
 <h6>Contact me on:</h6>
-		<p> My phone number: 060 308 3846 </p>
+		<a href="tel:1+38761-308-3846"> 060-308-3846</a>
 		<p> email:<a href="mailto:bulaja.ahmed@gmail.com"> Ahmed </a> </p>
-		<td> <a href="https://www.instagram.com/mr.skalamenko/?hl=hr"> Instagram </a> </td>
 
  
