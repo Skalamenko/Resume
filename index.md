@@ -49,9 +49,9 @@
 		<p> I do not have experience in large companies, but i have volontiered in couple events that happened in our country, such as: EYOF.
 		i am currently working in a small part time company, but unfortunately it is not programming based.</p>
 
-<h4>Contact me on:</h4>
+<h6>Contact me on:</h6>
 		<p> My phone number: 060 308 3846 </p>
-		<p> email:<a href="mailto:bulaja.ahmed@gmail.com">Ahmed </a> </p>
-		<p> <a href="http://instagram.com/_u/{mr.skalamenko}/">Instagram</a>
+		<p> email:<a href="mailto:bulaja.ahmed@gmail.com"> Ahmed </a> </p>
+		<td> <a href="https://www.instagram.com/mr.skalamenko/?hl=hr"> Instagram </a> </td>
 
  
