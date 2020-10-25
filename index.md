@@ -4,7 +4,7 @@
 <tr>
 <th> <h1> Welcome to my resume <h1>
    <img src="ahmed.png"  width="200"
-         height="80">
+         height="80" align="left">
 
 <tr> <th align ="left"> <h2>Ahmed Bulaja </h2>
 <h3>Basic informations </h3>
